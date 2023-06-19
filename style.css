@@ -6,6 +6,12 @@
     background-repeat: no-repeat;
 }
 
-.site-title{
-    text-decoration-color: aquamarine;
+.avatar-image{
+    width: 50%; 
+    height: 50%;
+    background-image: url('img/avatar.svg');
+}
+
+.card-text-list{
+    list-style-type: none;
 }
