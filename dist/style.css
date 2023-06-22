@@ -1,7 +1,7 @@
 .bg-image{
     width: 100%; 
     height: 600px; 
-    background-image: url('dist/img/banner.jpg'); 
+    background-image: url('/dist/img/banner.jpg'); 
     background-size: 100% 100%;  
     background-repeat: no-repeat;
 }
@@ -9,7 +9,7 @@
 .avatar-image{
     width: 50%; 
     height: 50%;
-    background-image: url('dist/img/avatar.svg');
+    background-image: url('/dist/img/avatar.svg');
 }
 
 .card-text-list{
